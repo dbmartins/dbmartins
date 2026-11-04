@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Diego 👋
 
-<!--
-**dbmartins/dbmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Specialist and Senior Software Engineer based in Campinas, Brazil. I build network management platforms for telecom operators and ISPs.
 
-Here are some ideas to get you started:
+I started in network support and analysis, moved into Python development, led teams as a Team Leader and Software Development Manager, and today I focus on architecture and hard technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I work on**
+- Network management for FTTH/GPON: OLT provisioning, SNMP, TR-069 and TR-369 (USP)
+- Hybrid backends in Python (FastAPI) and Rust, on PostgreSQL
+- AI-driven development: coding agents and LLMs for test coverage, CLI automation and technical docs
+
+**Stack:** Python · FastAPI · Rust · PostgreSQL · Linux · Networking
+
+**Background:** Information Security degree, Fatec Americana.
+
+📫 [LinkedIn](https://www.linkedin.com/in/diego-bruno-martins/)
