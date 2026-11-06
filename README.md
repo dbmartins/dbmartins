@@ -41,5 +41,9 @@ B.Sc. in **Information Security** — Fatec Americana
 ### 📊 GitHub stats
 
 <p>
+  <img src="metrics.svg" alt="GitHub metrics">
+</p>
+
+<p>
   <img src="https://streak-stats.demolab.com?user=dbmartins&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&stroke=8b949e" alt="GitHub streak">
 </p>
