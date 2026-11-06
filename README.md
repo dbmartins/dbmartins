@@ -15,7 +15,7 @@
 
 ### 🧭 About me
 
-I started in network support and analysis, moved into Python development, and led teams as a **Team Leader** and **Software Development Manager**. Today I focus on **architecture** and **hard technical problems**.
+I started in network support and analysis, moved into Python development, and led teams as a **Team Leader** and **Software Development Manager**. Today I focus on **architecture** and **hard technical problems**. I hold a B.Sc. in **Information Security** from Fatec Americana.
 
 ### 🛠️ What I work on
 
@@ -34,16 +34,8 @@ I started in network support and analysis, moved into Python development, and le
   <img src="https://img.shields.io/badge/Networking-SNMP%20%7C%20TR--069%20%7C%20TR--369-555555?style=flat-square" alt="Networking">
 </p>
 
-### 🎓 Background
-
-B.Sc. in **Information Security** — Fatec Americana
-
 ### 📊 GitHub stats
 
 <p>
   <img src="metrics.svg" alt="GitHub metrics">
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=dbmartins&hide_border=true&background=00000000&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e&stroke=8b949e" alt="GitHub streak">
 </p>
